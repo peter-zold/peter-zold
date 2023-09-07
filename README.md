@@ -9,7 +9,7 @@ You can find my growing list of projects here:
 
 https://github.com/peter-zold/Data-Analytics-Projects
 
-I've also created a school schedule maker with a friend written in Java, and we're constantly developing it:
+I've also created a school schedule maker with a friend. It's written in Java, and we're constantly developing it:
 
 https://github.com/korolesz/SchoolScheduleMaker
 
