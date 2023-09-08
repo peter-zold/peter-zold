@@ -4,12 +4,14 @@
 <a href="https://linkedin.com/in/peterzold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peterzold" height="15" width="25" /></a></p>
 
 ## <a href="https://linkedin.com/in/peterzold" target="blank"><img align="center" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/developer.gif" alt="peterzold" height="15" width="25" /></a>Projects
- I just love to dive into an exciting subject, face challenges, solve interesting problems. Luckily, in the world of data, I have so many opportunities to do that.
-You can find my growing list of projects here:
+ I just love to dive into an exciting subject, face challenges, solve interesting problems. Luckily, in the world of data, I have so many opportunities to do that. 
+So i've done several data analytics projects on various subjects, you can find my growing list of works here:
 
 https://github.com/peter-zold/Data-Analytics-Projects
 
-I've also created a school schedule maker with a friend. It's written in Java, and we're constantly developing it:
+I've also created a school schedule maker with a friend of mine.
+The program takes as input a subject allocation and as output a ready-made timetable for a whole school, which meets the predefined constraints and expectations. The engine inside is a genetic algorithm.
+It's written in Java, and and we're constantly developing it:
 
 https://github.com/korolesz/SchoolScheduleMaker
 
