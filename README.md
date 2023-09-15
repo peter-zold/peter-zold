@@ -5,9 +5,9 @@
 
 ## <a href="https://linkedin.com/in/peterzold" target="blank"><img align="center" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/developer.gif" alt="peterzold" height="15" width="25" /></a>Projects
  I just love to dive into an exciting subject, face challenges, solve interesting problems. Luckily, in the world of data, I have so many opportunities to do that. 
-So i've done several data analytics projects on various subjects, you can find my growing list of works here:
+So i've done several data analytics and science projects on various subjects, you can find my growing list of works here:
 
-https://github.com/peter-zold/Data-Analytics-and-Science-Projects
+https://github.com/peter-zold/Data-Analytics-Projects
 
 I've also created a school schedule maker with a friend of mine.
 The program takes as input a subject allocation and as output a ready-made timetable for a whole school, which meets the predefined constraints and expectations. The engine inside is a genetic algorithm.
