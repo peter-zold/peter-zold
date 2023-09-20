@@ -13,7 +13,7 @@ I've also created a school schedule maker with a friend of mine.
 The program takes as input a subject allocation and as output a ready-made timetable for a whole school, which meets the predefined constraints and expectations. The engine inside is a genetic algorithm.
 It's written in Java, and and we're constantly developing it:
 
-https://github.com/korolesz/SchoolScheduleMaker
+https://github.com/korolesz/SchoolScheduleMakerPresentation
 
 ## ⚗️Technologies and Tools:
 <p><b>For data preparation, cleaning, exploratory analysis, building machine learning models and creating visualizations I use:</b></p>
