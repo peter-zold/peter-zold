@@ -15,10 +15,10 @@ It's written in Java, and and we're constantly developing it:
 
 https://github.com/korolesz/SchoolScheduleMakerPresentation
 
-Recently I started to get into data engineering, creating some simple projects. I find very exciting to build data pipelines, use cloud technologies, automate complex workflows.
-You may find my projects here:
+<!---Recently I started to get into data engineering, creating some simple projects. I find very exciting to build data pipelines, use cloud technologies, automate complex workflows.--->
+<!---You may find my projects here:--->
 
-https://github.com/peter-zold/Data-Engineering-Projects
+<!---https://github.com/peter-zold/Data-Engineering-Projects--->
 
 ## ⚗️Technologies and Tools:
 <p><b>For data preparation, cleaning, exploratory analysis, building machine learning models and creating visualizations I use:</b></p>
