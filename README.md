@@ -18,7 +18,7 @@ https://github.com/korolesz/SchoolScheduleMakerPresentation
 Recently I started to get into data engineering, creating some simple projects. I hope more and more complex projects will follow soon. I find really exciting to build data pipelines, use cloud technologies, automate workflows.
 You may find my projects here:
 
-<!---https://github.com/peter-zold/Data-Engineering-Projects--->
+https://github.com/peter-zold/Data-Engineering-Projects
 
 ## ⚗️Technologies and Tools:
 <p><b>For data preparation, cleaning, exploratory analysis, building machine learning models and creating visualizations I use:</b></p>
