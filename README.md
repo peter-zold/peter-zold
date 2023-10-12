@@ -15,6 +15,10 @@ It's written in Java, and and we're constantly developing it:
 
 https://github.com/korolesz/SchoolScheduleMakerPresentation
 
+Recently I started to get into data engineering, creating some simple projects. I find very exciting to build data pipelines, use cloud technologies, automate complex workflows.
+You may find my projects here:
+https://github.com/peter-zold/Data-Engineering-Projects
+
 ## ⚗️Technologies and Tools:
 <p><b>For data preparation, cleaning, exploratory analysis, building machine learning models and creating visualizations I use:</b></p>
 Python (with numpy, pandas, scipy, sckit-learn, matplotlib, seaborn and so on),
@@ -22,7 +26,10 @@ Python (with numpy, pandas, scipy, sckit-learn, matplotlib, seaborn and so on),
 
 <p><b>For backend and frontend developement as a hobby:</b></p>
 <p>Java, JavaScript, HTML, CSS</p>
- 
+
+<p><b>For data engineering, I started to learn:</b></p>
+Airflow, Amazon Web Services
+
 ![image](https://github.com/peter-zold/peter-zold/assets/116908950/5af5635d-cca2-4b4f-ae5b-deab22b432d8)
 
 
