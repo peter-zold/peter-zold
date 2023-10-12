@@ -15,8 +15,8 @@ It's written in Java, and and we're constantly developing it:
 
 https://github.com/korolesz/SchoolScheduleMakerPresentation
 
-<!---Recently I started to get into data engineering, creating some simple projects. I find very exciting to build data pipelines, use cloud technologies, automate complex workflows.--->
-<!---You may find my projects here:--->
+Recently I started to get into data engineering, creating some simple projects. I hope more and more complex projects will follow soon. I find really exciting to build data pipelines, use cloud technologies, automate workflows.
+You may find my projects here:
 
 <!---https://github.com/peter-zold/Data-Engineering-Projects--->
 
