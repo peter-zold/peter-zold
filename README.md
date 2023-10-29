@@ -9,8 +9,8 @@ So i've done several data analytics and science projects on various subjects, yo
 
 https://github.com/peter-zold/Data-Science-Projects
 
-I've also created a school schedule maker with a friend of mine.
-The program takes as input a subject allocation and as output a ready-made timetable for a whole school, which meets the predefined constraints and expectations. The engine inside is a genetic algorithm.
+I've also created a school schedule maker application with a friend of mine.
+The program takes as input a subject allocation and as output a ready-made timetable for a whole school, which meets the predefined constraints and expectations. The engine inside is a genetic algorithm, a special kind of machine learning algorithm.
 It's written in Java, and and we're constantly developing it:
 
 https://github.com/korolesz/SchoolScheduleMakerPresentation
