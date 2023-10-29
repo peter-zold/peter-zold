@@ -22,7 +22,7 @@ https://github.com/peter-zold/Data-Engineering-Projects
 
 ## ⚗️Technologies and Tools:
 <p><b>For data preparation, cleaning, exploratory analysis, building machine learning models and creating visualizations I use:</b></p>
-Python (with numpy, pandas, scipy, sckit-learn, matplotlib, seaborn and so on),
+Python (with numpy, pandas, scipy, sckit-learn, tensorflow, matplotlib, seaborn and so on),
 <p>Power BI, Power Query, Excel, SQL</p>
 
 <p><b>For backend and frontend developement as a hobby:</b></p>
